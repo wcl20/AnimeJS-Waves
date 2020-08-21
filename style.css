@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #D0EFFF;
+}
+
+
+svg {
+  height: 500px;
+  width: 1200px;
+}
+
+svg text {
+  font-size: 300px;
+  alignment-baseline: middle;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 20px;
+}
